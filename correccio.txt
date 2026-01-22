@@ -2,8 +2,6 @@ Exercici 1: 2/2
 
 Per les properes vegades, mira d'eliminar tots els blocs de codi que siguin innecessaris a la entrega final.
 
-  
-
 Exercici 2: 1,5/2
 No et cal el while!
   
@@ -24,4 +22,4 @@ Exercici 4: 1,9/2
 
 Exercici 5.  2/2
 
-Nota final: 9,4/10
+Nota final: 9/10
